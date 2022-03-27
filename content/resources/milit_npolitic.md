@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e539d49-4954-bd0d-a63d-573e6c87b204
 resourcetype: Document
 title: milit_npolitic.pdf
 uid: 0a5495c5-9448-bed2-222f-4d2e75da67ce

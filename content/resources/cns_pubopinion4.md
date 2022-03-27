@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e539d49-4954-bd0d-a63d-573e6c87b204
 resourcetype: Document
 title: cns_pubopinion4.pdf
 uid: 51ece2c0-0a41-2fd0-0e69-656259bec5a9

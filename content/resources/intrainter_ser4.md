@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e539d49-4954-bd0d-a63d-573e6c87b204
 resourcetype: Document
 title: intrainter_ser4.pdf
 uid: 55841d18-5d70-5349-66fc-471354317c15

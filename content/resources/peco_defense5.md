@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e539d49-4954-bd0d-a63d-573e6c87b204
 resourcetype: Document
 title: peco_defense5.pdf
 uid: 7c1538fb-17ec-2b4b-0ba4-420fe0e2ee21

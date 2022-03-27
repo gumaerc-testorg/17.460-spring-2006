@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e539d49-4954-bd0d-a63d-573e6c87b204
 resourcetype: Document
 title: prepare_nxtwar2.pdf
 uid: 7c798967-81d5-3703-cdd1-af041ee4bf1a
