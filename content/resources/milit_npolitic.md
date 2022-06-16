@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information about civil/military relations and it's
   models.
-file: /media/courses/17-460-defense-politics-spring-2006/0a5495c59448bed2222f4d2e75da67ce_milit_npolitic.pdf
+file: /courses/17-460-defense-politics-spring-2006/0a5495c59448bed2222f4d2e75da67ce_milit_npolitic.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: milit_npolitic.pdf
 uid: 0a5495c5-9448-bed2-222f-4d2e75da67ce
 ---
+This file contains information about civil/military relations and it's models.
+

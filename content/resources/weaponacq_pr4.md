@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains topics: Basic Problem and Reform'
-file: /media/courses/17-460-defense-politics-spring-2006/24690d2f345eff2373747fd4632561be_weaponacq_pr4.pdf
+file: /courses/17-460-defense-politics-spring-2006/24690d2f345eff2373747fd4632561be_weaponacq_pr4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: weaponacq_pr4.pdf
 uid: 24690d2f-345e-ff23-7374-7fd4632561be
 ---
+This file contains topics: Basic Problem and Reform
+
