@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2006",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -57,6 +58,7 @@
     "Lecture Notes",
     "Written Assignments"
   ],
-  "site_uid": "f7f7cdbf-417f-4e68-9ead-669392b89e3b",
+  "site_uid": "cb80efe1-789c-4318-9f1c-0f11a74e90c6",
+  "short_id": "17.460-spring-2006",
   "title": "Course Metadata"
 }
