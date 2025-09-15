@@ -2,7 +2,8 @@
 content_type: resource
 description: This file contains information about the President, their national security
   and powers.
-file: /courses/17-460-defense-politics-spring-2006/2bec3d34344f3bbc2aad8061fadfb98e_presi_nsecurep4.pdf
+file: /ol-ocw-studio-app/courses/17-460-defense-politics-spring-2006/2bec3d34344f3bbc2aad8061fadfb98e_presi_nsecurep4.pdf
+file_size: 23117
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

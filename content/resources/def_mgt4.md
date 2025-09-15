@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This file contains topics: PPBS, System Analysis and Procurement reform.'
-file: /courses/17-460-defense-politics-spring-2006/c27ee0c0e78b84aa23d2332d58115da5_def_mgt4.pdf
+file: /ol-ocw-studio-app/courses/17-460-defense-politics-spring-2006/c27ee0c0e78b84aa23d2332d58115da5_def_mgt4.pdf
+file_size: 47102
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

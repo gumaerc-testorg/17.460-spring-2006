@@ -2,7 +2,8 @@
 content_type: resource
 description: This file contains information about defense politics, it's structure
   etc.
-file: /courses/17-460-defense-politics-spring-2006/c17825d2d92ed85d2cd99f6881c1d60d_introduction4.pdf
+file: /ol-ocw-studio-app/courses/17-460-defense-politics-spring-2006/c17825d2d92ed85d2cd99f6881c1d60d_introduction4.pdf
+file_size: 51376
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

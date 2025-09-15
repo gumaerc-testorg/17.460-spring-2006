@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This file contains institutional conflicts,policy making and peace movement.
-file: /courses/17-460-defense-politics-spring-2006/51ece2c00a412fd00e69656259bec5a9_cns_pubopinion4.pdf
+file: /ol-ocw-studio-app/courses/17-460-defense-politics-spring-2006/51ece2c00a412fd00e69656259bec5a9_cns_pubopinion4.pdf
+file_size: 36658
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This file contains topics: Basic Problem and Reform'
-file: /courses/17-460-defense-politics-spring-2006/24690d2f345eff2373747fd4632561be_weaponacq_pr4.pdf
+file: /ol-ocw-studio-app/courses/17-460-defense-politics-spring-2006/24690d2f345eff2373747fd4632561be_weaponacq_pr4.pdf
+file_size: 38316
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

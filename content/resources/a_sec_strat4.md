@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This file contains grand strategies and several themes.
-file: /courses/17-460-defense-politics-spring-2006/1473b6c72eaa0c154e6cf9aa676d2777_a_sec_strat4.pdf
+file: /ol-ocw-studio-app/courses/17-460-defense-politics-spring-2006/1473b6c72eaa0c154e6cf9aa676d2777_a_sec_strat4.pdf
+file_size: 38125
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

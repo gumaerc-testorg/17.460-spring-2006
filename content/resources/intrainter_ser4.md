@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This file contains six services USA, USN, USMC, USAF, USCG, Spec-Ops.
-file: /courses/17-460-defense-politics-spring-2006/55841d185d70534966fc471354317c15_intrainter_ser4.pdf
+file: /ol-ocw-studio-app/courses/17-460-defense-politics-spring-2006/55841d185d70534966fc471354317c15_intrainter_ser4.pdf
+file_size: 36815
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
